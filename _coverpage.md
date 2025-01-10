@@ -1,16 +1,16 @@
-<head>
-    <style>
-        body{
-          font-family: "腾讯体 W7",sans-serif;
+<style media="screen, print">
+        @font-face {
+            font-family: "Unifont";
+            src: url("/unifont-14.0.01.woff2") format('woff2');
         }
+
+        body {font-family: "Unifont"}
     </style>
-</head>
 
 
 ![logo](/images/Qingjin.png)
 
-<a href="/Boink_.html">Hi!</a>
-
+Hi!
 We're
 # 清锦
 

@@ -1,10 +1,11 @@
-<head>
-    <style>
-        body{
-          font-family: "腾讯体 W7";
+<style media="screen, print">
+        @font-face {
+            font-family: "Unifont";
+            src: url("/unifont-14.0.01.woff2") format('woff2');
         }
+
+        body {font-family: "Unifont"}
     </style>
-</head>
 
 # 重大新闻
 
