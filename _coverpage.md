@@ -12,7 +12,7 @@ Hi!
 We're
 # 清锦
 清华附中合肥学校
-<p><font face="楷体" color="#9400D3">自强不息 厚德载物</font></p>
+<p><font color="#9400D3">自强不息 厚德载物</font></p>
 
 <a href="Https://github.com/C2307/C2307.github.io" target="_blank" rel="noopener">GitHub repo</a>
 <a href="#/README">主站</a>
