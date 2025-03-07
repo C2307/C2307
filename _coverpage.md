@@ -6,15 +6,11 @@
 
         body {font-family: "Unifont"}
     </style>
-
-
 ![logo](/images/Qingjin.png)
-
 
 Hi!
 We're
 # 清锦
-
 清华附中合肥学校
 <p><font face="楷体" color="#9400D3">自强不息 厚德载物</font></p>
 
