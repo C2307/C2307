@@ -15,7 +15,9 @@
 Hi!
 We're
 # 清锦
+# 我们毕业啦
 
 
 <a href="Https://github.com/C2307/C2307.github.io" target="_blank" rel="noopener">GitHub repo</a>
 <a href="#/README">主站</a>
+<a href="Https://atbrea.de/">站长Blogs</a>
